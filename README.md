@@ -1,16 +1,14 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi I am Adil Ali Ansari ✨ 
+**A Website Developer || A UI UX designer || A developer from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **theadilali49@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Projects related to React.js
+- 🌱 **I’m currently learning:** Complete React.js
+- 💬 **Ask me about:** Frontend, Some Creative Frameworks like - GSAP, Locomotive, Shery.js etc.
+- 📫 **How to reach me:** theadilali49@gmail.com
+- 😄 **Pronouns:** Adil Bhai
+- ⚡ **Fun fact:** I Love Mental and Physical growth 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theadilali49@gmail.com) 
@@ -26,7 +24,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 ![](https://github-profile-trophy.vercel.app/?username=adilali49&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horiziontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adilali49&limit=5&theme=dark&combine_all_yearly_contributions=true)
